@@ -2,13 +2,13 @@ import { Link } from "react-router-dom";
 import Button from "../../../components/Button";
 import Card from "../../../components/Card";
 
-export default function HomeBody() {
+export default function Subscription() {
   return (
     <main>
       <section>
         <div className="container">
           <div className="mt30 mb30">
-            <Card title="Home" />
+            <Card title="Página de Inscrição" />
           </div>
 
           <div className="dflex">
